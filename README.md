@@ -1,16 +1,25 @@
-## Hi there 👋
+# Sahaj
 
-<!--
-**lovesahaj/lovesahaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Compilers and GPU work in Zig, Rust, and C++. Currently doing an MSc in
+Computer Science at the University of Edinburgh. Previously shipped a
+Rust → Verilog topological-sort compiler at Infineon (24× speedup on the
+team's largest IP designs), and backend / data-pipeline work at Max Healthcare.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Zigton](https://github.com/lovesahaj/zigton)** — a Triton-inspired tile DSL
+in Zig that compiles to CUDA PTX. Building it in public, phase by phase.
+
+- **Phase 0** — host runtime around the CUDA Driver API
+- **Phase 1** — Zig kernels → PTX, wired into `build.zig`, first tile abstraction
+- **Phase 2** — shared memory, barriers, block-level reductions *(in progress)*
+
+Writeups live on the blog: [portfolio.lovesahaj1225.workers.dev](https://portfolio.lovesahaj1225.workers.dev/#writing).
+
+## Reach me
+
+- email — lovesahaj@outlook.com
+- linkedin — [linkedin.com/in/lovesahaj](https://linkedin.com/in/lovesahaj)
+- x — *[add once live]*
+
+Open to compiler, GPU, and ML infrastructure roles.
