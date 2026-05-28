@@ -2,8 +2,7 @@
 
 Compilers and GPU work in Zig, Rust, and C++. Currently doing an MSc in
 Computer Science at the University of Edinburgh. Previously shipped a
-Rust → Verilog topological-sort compiler at Infineon (24× speedup on the
-team's largest IP designs), and backend / data-pipeline work at Max Healthcare.
+Python → Verilog compiler at Infineon, and backend / data-pipeline work at Max Healthcare.
 
 ## What I'm working on
 
