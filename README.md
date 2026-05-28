@@ -20,6 +20,6 @@ Writeups live on the blog: [portfolio.lovesahaj1225.workers.dev](https://portfol
 
 - email — lovesahaj@outlook.com
 - linkedin — [linkedin.com/in/lovesahaj](https://linkedin.com/in/lovesahaj)
-- x — *[add once live]*
+- x — @love_sahaj
 
 Open to compiler, GPU, and ML infrastructure roles.
